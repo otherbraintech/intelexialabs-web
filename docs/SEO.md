@@ -13,7 +13,7 @@ Este documento detalla la estructura de metadatos, optimización para motores de
 | **Descripción (`description`)** | `Infraestructura como Servicio (IaaS) alojada en Bolivia. Nube privada corporativa con fibra óptica dedicada, soberanía de datos y soporte experto local. COTAS × Intelexia Labs by IT911.` |
 | **Palabras Clave (`keywords`)** | `IaaS Bolivia, Nube Privada Bolivia, COTAS Intelexia Labs, Infraestructura como Servicio Santa Cruz, Cloud Corporativo Bolivia, IT911` |
 | **Autor (`author`)** | `Intelexia Labs by IT911 & COTAS` |
-| **Favicon Oficial** | Logo oficial en EasyPanel CDN |
+| **Favicon Oficial** | `rel="icon"`, `rel="shortcut icon"`, `rel="apple-touch-icon"` apuntando al logo oficial en EasyPanel CDN (`18501a40-da78-42f0-80fa-060e67fd1590.png`) |
 
 ---
 
