@@ -50,25 +50,18 @@ export default function NavBar() {
               <button
                 key={item.href}
                 onClick={() => scrollTo(item.href)}
-                className="text-sm font-mono tracking-wider transition-all duration-200 hover:scale-105"
-                style={{ color: 'rgba(248,250,252,0.6)', letterSpacing: '0.08em', fontSize: '0.8rem' }}
-                onMouseEnter={e => e.target.style.color = '#00E5FF'}
-                onMouseLeave={e => e.target.style.color = 'rgba(248,250,252,0.6)'}
+                className="text-sm font-mono tracking-wider transition-all duration-200 hover:scale-105 text-slate-100/60 hover:text-[#00E5FF]"
+                style={{ letterSpacing: '0.08em', fontSize: '0.8rem' }}
               >
                 {item.label}
               </button>
             ))}
             <button
               onClick={() => scrollTo('#cta')}
-              className="px-5 py-2 text-xs font-mono font-bold tracking-widest uppercase transition-all duration-200"
+              className="px-5 py-2 text-xs font-mono font-bold tracking-widest uppercase transition-all duration-200 border border-[#00E5FF] text-[#00E5FF] bg-[#00E5FF]/5 hover:bg-[#00E5FF]/15"
               style={{
-                border: '1px solid #00E5FF',
-                color: '#00E5FF',
                 letterSpacing: '0.15em',
-                background: 'rgba(0,229,255,0.05)',
               }}
-              onMouseEnter={e => { e.target.style.background = 'rgba(0,229,255,0.15)'; }}
-              onMouseLeave={e => { e.target.style.background = 'rgba(0,229,255,0.05)'; }}
             >
               Solicitar Arquitectura
             </button>

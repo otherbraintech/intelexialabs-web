@@ -160,9 +160,10 @@ export default function CTASection() {
           </div>
           <div className="flex items-center gap-6">
             {['Infraestructura', 'Seguridad', 'Planes', 'Contacto'].map((item, i) => (
-              <span key={i} className="text-xs font-mono cursor-pointer transition-colors duration-200" style={{ color: 'rgba(248,250,252,0.3)', letterSpacing: '0.08em', fontSize: '10px' }}
-                onMouseEnter={e => e.target.style.color = '#00E5FF'}
-                onMouseLeave={e => e.target.style.color = 'rgba(248,250,252,0.3)'}
+              <span
+                key={i}
+                className="text-xs font-mono cursor-pointer transition-colors duration-200 text-slate-100/30 hover:text-[#00E5FF]"
+                style={{ letterSpacing: '0.08em', fontSize: '10px' }}
               >
                 {item}
               </span>
