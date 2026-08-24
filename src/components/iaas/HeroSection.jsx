@@ -52,13 +52,7 @@ export default function HeroSection() {
           className="transition-all duration-1000"
           style={{ opacity: visible ? 1 : 0, transform: visible ? 'translateY(0)' : 'translateY(40px)' }}
         >
-          {/* Tag */}
-          <div className="flex items-center gap-3 mb-8">
-            <div className="w-8 h-px" style={{ backgroundColor: '#00E5FF' }} />
-            <span className="text-xs font-mono tracking-widest uppercase" style={{ color: '#00E5FF', letterSpacing: '0.2em' }}>
-              COTAS · Bolivia
-            </span>
-          </div>
+
 
           <h1
             className="font-black mb-6 leading-none"
