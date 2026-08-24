@@ -38,9 +38,9 @@ export default function NavBar() {
           {/* Logo Intelexia */}
           <div className="flex items-center gap-3 cursor-pointer" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>
             <img
-              src="https://otherbrain-tech-ob-files-oficial.ddt6vc.easypanel.host/api/files/18501a40-da78-42f0-80fa-060e67fd1590.png"
+              src="/logo.svg"
               alt="Intelexia Labs"
-              className="h-12 md:h-14 w-auto object-contain transition-transform duration-200 hover:scale-105"
+              className="h-10 md:h-12 w-auto object-contain transition-transform duration-200 hover:scale-105"
             />
           </div>
 
