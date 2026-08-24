@@ -9,7 +9,7 @@ Este documento centraliza los activos de marca, enlaces de recursos oficiales y 
 - **URL Oficial (Activo en Navbar & Web):**
   `https://otherbrain-tech-ob-files-oficial.ddt6vc.easypanel.host/api/files/581ec57a-35ff-4ad4-8f41-0ec2957106bc.png`
 - **Ubicación en el código:** [`src/components/iaas/NavBar.jsx`](file:///d:/Users/ludwi/Documents/workspace/intelexia/src/components/iaas/NavBar.jsx)
-- **Dimensiones sugeridas en UI:** Altura de `56px` a `64px` (`h-14 md:h-16`) con escalado proporcional (`object-contain`).
+- **Dimensiones sugeridas en UI:** Altura de `64px` a `80px` (`h-16 md:h-20`) con escalado proporcional (`object-contain`).
 
 ---
 
