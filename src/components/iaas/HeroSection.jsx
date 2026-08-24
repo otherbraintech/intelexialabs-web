@@ -35,7 +35,7 @@ export default function HeroSection() {
       id="hero"
       ref={heroRef}
       onMouseMove={handleMouseMove}
-      className="relative min-h-screen flex items-center justify-center overflow-hidden pt-20"
+      className="relative min-h-screen flex items-center justify-center overflow-hidden pt-28 pb-12"
       style={{ zIndex: 1 }}
     >
       {/* Radial glow */}
@@ -52,10 +52,8 @@ export default function HeroSection() {
           className="transition-all duration-1000"
           style={{ opacity: visible ? 1 : 0, transform: visible ? 'translateY(0)' : 'translateY(40px)' }}
         >
-
-
           <h1
-            className="font-black mb-6 leading-none"
+            className="font-black mb-6 mt-4 md:mt-8 leading-none"
             style={{
               fontSize: 'clamp(2.5rem, 6vw, 5rem)',
               color: '#F8FAFC',
