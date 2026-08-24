@@ -38,7 +38,7 @@ export default function NavBar() {
           {/* Logo */}
           <div className="flex items-center gap-3 cursor-pointer" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>
             <img
-              src="https://otherbrain-tech-ob-files-oficial.ddt6vc.easypanel.host/api/files/581ec57a-35ff-4ad4-8f41-0ec2957106bc.png"
+              src="https://otherbrain-tech-ob-files-oficial.ddt6vc.easypanel.host/api/files/78c24084-f5b3-4072-816f-9c02d6ab72eb.png"
               alt="Logo"
               className="h-20 md:h-28 lg:h-32 w-auto object-contain transition-transform duration-200 hover:scale-105"
             />

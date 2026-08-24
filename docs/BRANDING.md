@@ -7,7 +7,7 @@ Este documento centraliza los activos de marca, enlaces de recursos oficiales y 
 ## 1. Logotipo Oficial
 
 - **URL Oficial (Activo en Navbar & Web):**
-  `https://otherbrain-tech-ob-files-oficial.ddt6vc.easypanel.host/api/files/581ec57a-35ff-4ad4-8f41-0ec2957106bc.png`
+  `https://otherbrain-tech-ob-files-oficial.ddt6vc.easypanel.host/api/files/78c24084-f5b3-4072-816f-9c02d6ab72eb.png`
 - **Ubicación en el código:** [`src/components/iaas/NavBar.jsx`](file:///d:/Users/ludwi/Documents/workspace/intelexia/src/components/iaas/NavBar.jsx)
 - **Dimensiones sugeridas en UI:** Altura de `80px` a `128px` (`h-20 md:h-28 lg:h-32`) con escalado proporcional (`object-contain`).
 

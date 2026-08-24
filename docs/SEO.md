@@ -13,7 +13,7 @@ Este documento detalla la estructura de metadatos, optimización para motores de
 | **Descripción (`description`)** | `Infraestructura como Servicio (IaaS) alojada en Bolivia. Nube privada corporativa con fibra óptica dedicada, soberanía de datos y soporte experto local. COTAS × Intelexia Labs by IT911.` |
 | **Palabras Clave (`keywords`)** | `IaaS Bolivia, Nube Privada Bolivia, COTAS Intelexia Labs, Infraestructura como Servicio Santa Cruz, Cloud Corporativo Bolivia, IT911` |
 | **Autor (`author`)** | `Intelexia Labs by IT911 & COTAS` |
-| **Favicon Oficial** | `rel="icon"`, `rel="shortcut icon"`, `rel="apple-touch-icon"` apuntando al logo oficial (`581ec57a-35ff-4ad4-8f41-0ec2957106bc.png`) |
+| **Favicon Oficial** | `rel="icon"`, `rel="shortcut icon"`, `rel="apple-touch-icon"` apuntando al logo oficial (`78c24084-f5b3-4072-816f-9c02d6ab72eb.png`) |
 
 ---
 
@@ -22,7 +22,7 @@ Este documento detalla la estructura de metadatos, optimización para motores de
 - **`og:type`**: `website`
 - **`og:title`**: `Nube Corporativa Privada — IaaS · COTAS × Intelexia Labs`
 - **`og:description`**: `Infraestructura como Servicio (IaaS) alojada en Bolivia con fibra óptica dedicada, soberanía de datos y soporte local 24/7.`
-- **`og:image` / `twitter:image`**: `https://otherbrain-tech-ob-files-oficial.ddt6vc.easypanel.host/api/files/581ec57a-35ff-4ad4-8f41-0ec2957106bc.png`
+- **`og:image` / `twitter:image`**: `https://otherbrain-tech-ob-files-oficial.ddt6vc.easypanel.host/api/files/78c24084-f5b3-4072-816f-9c02d6ab72eb.png`
 - **`twitter:card`**: `summary_large_image`
 
 ---
