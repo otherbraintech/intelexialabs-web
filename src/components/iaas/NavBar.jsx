@@ -35,11 +35,11 @@ export default function NavBar() {
         }}
       >
         <div className="max-w-7xl mx-auto px-8 py-4 flex items-center justify-between">
-          {/* Logo Intelexia */}
+          {/* Logo */}
           <div className="flex items-center gap-3 cursor-pointer" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>
             <img
-              src="/logo.svg"
-              alt="Intelexia Labs"
+              src="https://otherbrain-tech-ob-files-oficial.ddt6vc.easypanel.host/api/files/581ec57a-35ff-4ad4-8f41-0ec2957106bc.png"
+              alt="Logo"
               className="h-10 md:h-12 w-auto object-contain transition-transform duration-200 hover:scale-105"
             />
           </div>

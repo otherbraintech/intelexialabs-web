@@ -56,7 +56,7 @@ export default function HeroSection() {
           <div className="flex items-center gap-3 mb-8">
             <div className="w-8 h-px" style={{ backgroundColor: '#00E5FF' }} />
             <span className="text-xs font-mono tracking-widest uppercase" style={{ color: '#00E5FF', letterSpacing: '0.2em' }}>
-              Intelexia Labs × COTAS · Bolivia
+              COTAS · Bolivia
             </span>
           </div>
 
