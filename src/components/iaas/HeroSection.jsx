@@ -35,7 +35,7 @@ export default function HeroSection() {
       id="hero"
       ref={heroRef}
       onMouseMove={handleMouseMove}
-      className="relative min-h-screen flex items-center justify-center overflow-hidden pt-36 pb-12"
+      className="relative min-h-screen flex items-center justify-center overflow-hidden pt-28 pb-12"
       style={{ zIndex: 1 }}
     >
       {/* Radial glow */}
