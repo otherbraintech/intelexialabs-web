@@ -40,7 +40,7 @@ export default function NavBar() {
             <img
               src="https://otherbrain-tech-ob-files-oficial.ddt6vc.easypanel.host/api/files/581ec57a-35ff-4ad4-8f41-0ec2957106bc.png"
               alt="Logo"
-              className="h-16 md:h-20 w-auto object-contain transition-transform duration-200 hover:scale-105"
+              className="h-20 md:h-28 lg:h-32 w-auto object-contain transition-transform duration-200 hover:scale-105"
             />
           </div>
 
